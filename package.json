@@ -1,0 +1,20 @@
+{
+  "name": "bootjs-common",
+  "version": "0.1.2",
+  "description": "Common sdk for bootjs-*",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+  },
+  "repository": {
+    "type": "https",
+    "url": "https://github.com/guoguolong/bootjs-common.git"
+  },
+  "keywords": [
+    "Common SDK"
+  ],
+  "author": "Allen Guo",
+  "license": "MIT"
+}
