@@ -1,4 +1,4 @@
-# common utilities for light-mvc
+# common utilities for bootjs
 
 [MIT](LICENSE)
 
